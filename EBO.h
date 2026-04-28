@@ -14,4 +14,4 @@ public:
 	void Delete();
 };
 
-#endif#pragma once
+#endif
